@@ -9,3 +9,5 @@ if k==28:
 elif k== ord('s'):
     cv2.imwrite('lena_copy.png', img)
     cv2.destroyAllWindows()
+
+print("123")
